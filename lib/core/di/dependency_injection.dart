@@ -1,6 +1,6 @@
-import 'package:advanced_omar_ahmed/features/login/logic/login_cubit.dart';
-import 'package:advanced_omar_ahmed/features/sign_up/data/repos/sign_up_repo.dart';
-import 'package:advanced_omar_ahmed/features/sign_up/logic/sign_up_cubit.dart';
+import 'package:code_car/features/login/logic/login_cubit.dart';
+import 'package:code_car/features/sign_up/data/repos/sign_up_repo.dart';
+import 'package:code_car/features/sign_up/logic/sign_up_cubit.dart';
 import 'package:dio/dio.dart';
 import 'package:get_it/get_it.dart';
 

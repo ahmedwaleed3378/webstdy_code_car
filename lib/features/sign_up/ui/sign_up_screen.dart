@@ -1,5 +1,5 @@
-import 'package:advanced_omar_ahmed/core/helper/spacing.dart';
-import 'package:advanced_omar_ahmed/features/login/widgets/terms_and_conditions.dart';
+import 'package:code_car/core/helper/spacing.dart';
+import 'package:code_car/features/login/widgets/terms_and_conditions.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';

@@ -1,11 +1,11 @@
-import 'package:advanced_omar_ahmed/features/login/widgets/dont_have_account.dart';
-import 'package:advanced_omar_ahmed/features/login/widgets/login_bloc_listener.dart';
+import 'package:code_car/features/login/widgets/dont_have_account.dart';
+import 'package:code_car/features/login/widgets/login_bloc_listener.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
-import 'package:advanced_omar_ahmed/core/helper/spacing.dart';
-import 'package:advanced_omar_ahmed/core/widget/app_text_button.dart';
-import 'package:advanced_omar_ahmed/features/login/widgets/email_and_pass_fields.dart';
+import 'package:code_car/core/helper/spacing.dart';
+import 'package:code_car/core/widget/app_text_button.dart';
+import 'package:code_car/features/login/widgets/email_and_pass_fields.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 
 import '../../../core/theming/styles.dart';

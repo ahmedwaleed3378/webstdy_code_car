@@ -1,5 +1,5 @@
-import 'package:advanced_omar_ahmed/core/networking/api_result.dart';
-import 'package:advanced_omar_ahmed/core/networking/api_service.dart';
+import 'package:code_car/core/networking/api_result.dart';
+import 'package:code_car/core/networking/api_service.dart';
 
 import '../../../../core/networking/api_error_handler.dart';
 import '../models/login_request_body.dart';

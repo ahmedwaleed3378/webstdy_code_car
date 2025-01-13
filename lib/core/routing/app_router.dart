@@ -1,10 +1,10 @@
-import 'package:advanced_omar_ahmed/core/di/dependency_injection.dart';
-import 'package:advanced_omar_ahmed/core/routing/routes.dart';
-import 'package:advanced_omar_ahmed/features/home/ui/home_screen.dart';
-import 'package:advanced_omar_ahmed/features/login/login_screen.dart';
-import 'package:advanced_omar_ahmed/features/onboarding/onBoarding_screen.dart';
-import 'package:advanced_omar_ahmed/features/sign_up/logic/sign_up_cubit.dart';
-import 'package:advanced_omar_ahmed/features/sign_up/ui/sign_up_screen.dart';
+import 'package:code_car/core/di/dependency_injection.dart';
+import 'package:code_car/core/routing/routes.dart';
+import 'package:code_car/features/home/ui/home_screen.dart';
+import 'package:code_car/features/login/login_screen.dart';
+import 'package:code_car/features/onboarding/onBoarding_screen.dart';
+import 'package:code_car/features/sign_up/logic/sign_up_cubit.dart';
+import 'package:code_car/features/sign_up/ui/sign_up_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 

@@ -3,14 +3,14 @@
     "configurations": [
         
       {
-        "name": "DocDoc Development",
+        "name": "CodeCar Development",
         "request": "launch",
         "type": "dart",
         "program": "lib/main_development.dart",
         "args": ["--flavor", "Development", "--target", "lib/main_development.dart" ]
       },
       {
-        "name": "DocDoc Production",
+        "name": "CodeCar Production",
         "request": "launch",
         "type": "dart",
         "program": "lib/main_production.dart",

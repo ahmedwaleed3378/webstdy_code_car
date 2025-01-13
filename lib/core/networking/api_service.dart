@@ -1,4 +1,4 @@
-import 'package:advanced_omar_ahmed/features/sign_up/data/models/sign_up_request_body.dart';
+import 'package:code_car/features/sign_up/data/models/sign_up_request_body.dart';
 import 'package:dio/dio.dart';
 import 'package:retrofit/retrofit.dart';
 

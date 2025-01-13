@@ -1,6 +1,6 @@
-import 'package:advanced_omar_ahmed/core/helper/extensions.dart';
-import 'package:advanced_omar_ahmed/core/theming/colors.dart';
-import 'package:advanced_omar_ahmed/features/sign_up/logic/sign_up_cubit.dart';
+import 'package:code_car/core/helper/extensions.dart';
+import 'package:code_car/core/theming/colors.dart';
+import 'package:code_car/features/sign_up/logic/sign_up_cubit.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 

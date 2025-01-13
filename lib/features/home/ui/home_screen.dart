@@ -1,4 +1,4 @@
-import 'package:advanced_omar_ahmed/features/home/ui/widgets/home_top_bar.dart';
+import 'package:code_car/features/home/ui/widgets/home_top_bar.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 

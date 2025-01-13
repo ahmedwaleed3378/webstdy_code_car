@@ -1,5 +1,5 @@
-import 'package:advanced_omar_ahmed/core/helper/spacing.dart';
-import 'package:advanced_omar_ahmed/core/theming/colors.dart';
+import 'package:code_car/core/helper/spacing.dart';
+import 'package:code_car/core/theming/colors.dart';
 import 'package:flutter/material.dart';
 
 

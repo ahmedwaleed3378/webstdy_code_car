@@ -1,5 +1,5 @@
-import 'package:advanced_omar_ahmed/features/sign_up/data/repos/sign_up_repo.dart';
-import 'package:advanced_omar_ahmed/features/sign_up/logic/sign_up_state.dart';
+import 'package:code_car/features/sign_up/data/repos/sign_up_repo.dart';
+import 'package:code_car/features/sign_up/logic/sign_up_state.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 

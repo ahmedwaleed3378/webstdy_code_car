@@ -1,4 +1,4 @@
-import 'package:advanced_omar_ahmed/core/theming/styles.dart';
+import 'package:code_car/core/theming/styles.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:flutter_svg/flutter_svg.dart';
@@ -18,7 +18,7 @@ class DocLogoAndName extends StatelessWidget {
         // width: 50.w
       ),
       SizedBox(width: 10.w,),
-      Text('DocDoc', style: TextStyles.font24BlueBold,)
+      Text('CodeCar', style: TextStyles.font24BlueBold,)
       ],
     );
   }

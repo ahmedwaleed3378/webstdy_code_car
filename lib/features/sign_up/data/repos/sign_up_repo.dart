@@ -1,9 +1,9 @@
 
-import 'package:advanced_omar_ahmed/core/networking/api_error_handler.dart';
-import 'package:advanced_omar_ahmed/core/networking/api_result.dart';
-import 'package:advanced_omar_ahmed/core/networking/api_service.dart';
-import 'package:advanced_omar_ahmed/features/sign_up/data/models/sign_up_request_body.dart';
-import 'package:advanced_omar_ahmed/features/sign_up/data/models/sign_up_response.dart';
+import 'package:code_car/core/networking/api_error_handler.dart';
+import 'package:code_car/core/networking/api_result.dart';
+import 'package:code_car/core/networking/api_service.dart';
+import 'package:code_car/features/sign_up/data/models/sign_up_request_body.dart';
+import 'package:code_car/features/sign_up/data/models/sign_up_response.dart';
 
 class SignupRepo {
   final ApiService _apiService;
