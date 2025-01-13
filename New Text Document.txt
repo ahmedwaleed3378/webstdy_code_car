@@ -1,0 +1,54 @@
+*Functional Requirements*
+
+1. *Authentication* (2 pages)
+- A login & register pages for teachers with username and password fields.
+- Password recovery or reset functionality.
+
+2. *Dashboard Home Screen*
+- Display a list of subjects taught by the teacher.
+- Navigation to a subject's detailed page.
+
+3. *Subject Management*
+- Add, edit, or delete subjects.
+- View a subject's structure, including units and lessons.
+- Add or remove units for a subject.
+- Add or remove lessons within units.
+
+4. *Lesson Management*
+- Add lessons to units:
+  - Upload video files from the teacher's device.
+  - Embed videos via YouTube links.
+  - Upload PDF files.
+- Edit or delete existing lessons.
+
+5. *Student Management*
+- Add students to a subject or unit based on their unique codes and selected packages.
+- View a student's profile (if the student is enrolled in at least one subject taught by the teacher).
+- Change a student's password.
+- Remove a student from a subject.
+
+#### 6. *Packages*
+- Associate a student with specific subjects or units depending on their chosen package.
+
+---
+
+### *Non-Functional Requirements*
+
+1. *Performance*
+   - Handle concurrent users efficiently.
+   - Support large file uploads (videos and PDFs).
+
+2. *Security*
+   - Protect sensitive information like passwords and student profiles.
+   - Validate file types during uploads to prevent malicious content.
+
+3. *User Interface*
+   - Intuitive design for teachers to navigate and manage content easily.
+   - Mobile and tablet compatibility for accessibility.
+
+4. *Scalability*
+   - Allow for growth in the number of teachers, subjects, and students without performance degradation.
+
+5. *Data Integrity*
+   - Ensure that student codes and associated packages are unique and stored reliably.
+   - Prevent accidental deletion of essential content.
