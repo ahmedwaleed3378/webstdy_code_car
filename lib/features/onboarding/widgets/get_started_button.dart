@@ -1,7 +1,7 @@
-import 'package:advanced_omar_ahmed/core/helper/extensions.dart';
-import 'package:advanced_omar_ahmed/core/routing/routes.dart';
-import 'package:advanced_omar_ahmed/core/theming/colors.dart';
-import 'package:advanced_omar_ahmed/core/theming/styles.dart';
+import 'package:code_car/core/helper/extensions.dart';
+import 'package:code_car/core/routing/routes.dart';
+import 'package:code_car/core/theming/colors.dart';
+import 'package:code_car/core/theming/styles.dart';
 import 'package:flutter/material.dart';
 
 class GetStartedButton extends StatelessWidget {

@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 
+=======
+import 'package:code_car/features/login/logic/login_cubit.dart';
+import 'package:code_car/features/sign_up/data/repos/sign_up_repo.dart';
+import 'package:code_car/features/sign_up/logic/sign_up_cubit.dart';
+>>>>>>> c7ecc5818c83ea4c0541138a738d39f41a2cdb82
 import 'package:dio/dio.dart';
 import 'package:get_it/get_it.dart';
 
