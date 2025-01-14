@@ -1,7 +1,7 @@
-import 'package:advanced_omar_ahmed/core/di/dependency_injection.dart';
-import 'package:advanced_omar_ahmed/core/routing/routes.dart';
 
-import 'package:advanced_omar_ahmed/features/onboarding/onBoarding_screen.dart';
+import 'package:code_car/core/routing/routes.dart';
+import 'package:code_car/features/Login/views/login_screen.dart';
+import 'package:code_car/features/onboarding/onboarding_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
@@ -12,6 +12,8 @@ class AppRouter {
     switch (settings.name) {
       case Routes.onBoardingScreen:
         return MaterialPageRoute(builder: (_) => const OnboardingScreen());
+          case Routes.loginScreen:
+        return MaterialPageRoute(builder: (_) => const LoginScreen());
       
       default:
         return MaterialPageRoute(

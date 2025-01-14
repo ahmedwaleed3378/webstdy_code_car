@@ -52,6 +52,7 @@ dependencies:
   flutter_svg: ^2.0.9
   flutter_screenutil: ^5.9.0
   build_runner: ^2.4.12
+  flutter_platform_widgets: ^7.0.1
 
 dev_dependencies:
   flutter_test:
