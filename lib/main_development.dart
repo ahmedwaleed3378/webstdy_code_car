@@ -5,9 +5,10 @@ import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 
 void main()async {
-  setupGetIt();
+ 
   WidgetsFlutterBinding.ensureInitialized();
   await ScreenUtil.ensureScreenSize();
+  await  setupGetIt();
   runApp(
     DocApp(
       appRouter: AppRouter(),
