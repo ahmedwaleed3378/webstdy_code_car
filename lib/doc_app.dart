@@ -14,10 +14,13 @@ class DocApp extends StatelessWidget {
       designSize: const Size(375, 812),
       minTextAdapt: true,
       splitScreenMode: true,
+        
       child: MaterialApp(
+        
         title: 'Doc App',
         debugShowCheckedModeBanner: false,
         theme: ThemeData(
+          fontFamily: "Janna",
           primaryColor: mainBlue,
           scaffoldBackgroundColor: white
         ),
